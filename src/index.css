@@ -35,3 +35,18 @@
 ::-webkit-scrollbar-corner {
   background: transparent;
 }
+
+@layer utilities {
+  .duration-750 {
+    --transition-duration: 750ms;
+  }
+  .duration-1000 {
+    --transition-duration: 1000ms;
+  }
+  .duration-1250 {
+    --transition-duration: 1200ms;
+  }
+  .duration-1500 {
+    --transition-duration: 1500ms;
+  }
+}
