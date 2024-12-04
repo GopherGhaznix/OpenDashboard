@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a6c9957-5de8-4be0-b02f-dc9e51ca47eb/deploy-status)](https://app.netlify.com/sites/ghaznix-opendashboard/deploys)
+
 # OpenSource Dashboard
 
 Welcome to the OpenSource Dashboard project! This dashboard is an open-source, fully customizable platform designed to provide seamless data visualization, analytics, and reporting. It’s designed to be intuitive, flexible, and scalable, making it suitable for personal, business, and enterprise applications.
@@ -31,7 +33,7 @@ To use the OpenSource Dashboard, you will need:
    cd OpenDashboard
    ```
 
-2. Install dependencies using npm or yarn:
+2. Install dependencies using npm:
 
    ```bash
    npm install
@@ -40,7 +42,7 @@ To use the OpenSource Dashboard, you will need:
 3. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. The dashboard should now be running at [http://localhost:3000](http://localhost:3000).
