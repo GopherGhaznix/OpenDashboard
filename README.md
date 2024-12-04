@@ -45,7 +45,7 @@ To use the OpenSource Dashboard, you will need:
    npm run dev
    ```
 
-4. The dashboard should now be running at [http://localhost:3000](http://localhost:3000).
+4. The dashboard should now be running at [http://localhost:5173/](http://localhost:5173).
 
 ## Usage
 
